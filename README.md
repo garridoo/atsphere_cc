@@ -2,6 +2,7 @@
 scripts to reproduce the analysis and figures from Bai et al., 2015
 
 originally by Ruben Garrido-Oter
+
 garridoo@mpipz.mpg.de
 
 
@@ -37,10 +38,15 @@ http://www.at-sphere.com/download/culture_collections.tar.gz
 
 If you use any of these scripts, please cite our paper:
 
-CITATION
+Functional overlap of the Arabidopsis leaf and root microbiota.
+
+Bai Y, Müller DB, Srinivas G, Garrido-Oter R, Potthoff E, Rott M, Dombrowski N, Münch PC, Spaepen S, Remus-Emsermann M, Hüttel B, McHardy AC, Vorholt JA, Schulze-Lefert P.
+
+Nature. 2015 Dec 2. doi: 10.1038/nature16192.
 
 For any questions regarding these scripts, please contact
 
 Ruben Garrido-Oter
+
 garridoo@mpipz.mpg.de
 
