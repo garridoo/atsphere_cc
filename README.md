@@ -26,12 +26,6 @@ study amplicon profiling as well previous studies.
 
 NOTE:
 
-Steps 1.-4. are very computationally intensive and can only be performed in 
-a reasonable time frame using high-performance computing and parallelization.
-For this reason, the secondary data generated be these scripts (namely:
-assemblies, ORFs, annotations, species tree, WGS taxonomy info., etc.) are
-provided here:
-
 The raw data (from the sequencing machine) necessary to run these scripts, as 
 well as mapping file, metadata and intermediate results can be downloaded from:
 
